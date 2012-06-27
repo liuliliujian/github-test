@@ -1,4 +1,4 @@
 github-test
 ===========
 
-test for github usage
+just for test github usage
